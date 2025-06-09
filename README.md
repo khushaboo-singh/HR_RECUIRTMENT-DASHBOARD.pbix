@@ -18,6 +18,7 @@ This Power BI dashboard provides a detailed overview of the recruitment process,
 ## 📁 Files Included
 
 - `HR_RECUIRTMENT-DASHBOARD.pbix` – Power BI dashboard
+- HR_RECURITMENT_SQL_QUERY
 - `Hr_recruitement.csv` – Dataset used in the dashboard
 
 ---
